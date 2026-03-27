@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developer pursuing BCA, with knowledge of languages like C, Java, and Python. Interested in web development and open-source contributions, aiming to create efficient and user-friendly applications.
+ As a Software developer pursuing BCA, with knowledge of languages like C, Java, and Python. Interested in web development and open-source contributions, aiming to create efficient and user-friendly applications.
 
 
 ## 🌐 Socials:
